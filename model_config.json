@@ -1,0 +1,32 @@
+{
+  "MaziyarPanahi/Phi-3.5-mini-instruct-GGUF": {
+    "path": "f:\\原F盘\\桌面\\LocalAI\\models\\MaziyarPanahi_Phi-3.5-mini-instruct-GGUF\\Phi-3.5-mini-instruct.IQ1_M.gguf",
+    "downloaded": true,
+    "file": "Phi-3.5-mini-instruct.IQ1_M.gguf"
+  },
+  "MaziyarPanahi/Qwen3-1.7B-GGUF": {
+    "path": "f:\\原F盘\\桌面\\LocalAI\\models\\MaziyarPanahi_Qwen3-1.7B-GGUF\\Qwen3-1.7B.Q2_K.gguf",
+    "downloaded": true,
+    "file": "Qwen3-1.7B.Q2_K.gguf"
+  },
+  "MaziyarPanahi/Qwen3-0.6B-GGUF": {
+    "path": "F:\\原F盘\\桌面\\LocalAI\\models\\MaziyarPanahi_Qwen3-0.6B-GGUF\\Qwen3-0.6B.Q2_K.gguf",
+    "downloaded": true,
+    "file": "Qwen3-0.6B.Q2_K.gguf"
+  },
+  "MaziyarPanahi/Phi-4-mini-instruct-GGUF": {
+    "path": "F:\\原F盘\\桌面\\LocalAI\\models\\MaziyarPanahi_Phi-4-mini-instruct-GGUF\\Phi-4-mini-instruct.Q2_K.gguf",
+    "downloaded": true,
+    "file": "Phi-4-mini-instruct.Q2_K.gguf"
+  },
+  "MaziyarPanahi/Qwen2.5-7B-Instruct-GGUF": {
+    "path": "F:\\原F盘\\桌面\\LocalAI\\models\\MaziyarPanahi_Qwen2.5-7B-Instruct-GGUF\\Qwen2.5-7B-Instruct.IQ1_M.gguf",
+    "downloaded": true,
+    "file": "Qwen2.5-7B-Instruct.IQ1_M.gguf"
+  },
+  "MaziyarPanahi/Qwen2-7B-Instruct-GGUF": {
+    "path": "F:\\原F盘\\桌面\\LocalAI\\models\\MaziyarPanahi_Qwen2-7B-Instruct-GGUF\\Qwen2-7B-Instruct.IQ1_M.gguf",
+    "downloaded": true,
+    "file": "Qwen2-7B-Instruct.IQ1_M.gguf"
+  }
+}

@@ -1,0 +1,55 @@
+2025-06-30 19:18:03,749 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-30 19:18:03,788 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-06-30 19:18:03,892 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-30 19:25:44,981 - ERROR - 加载模型失败: 
+2025-06-30 19:25:58,674 - ERROR - 加载模型失败: 
+2025-06-30 19:26:00,531 - ERROR - 加载模型失败: 
+2025-06-30 19:26:01,469 - ERROR - 加载模型失败: 
+2025-06-30 19:27:09,802 - ERROR - 加载模型失败: 
+2025-06-30 19:29:00,408 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-30 19:29:00,446 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-06-30 19:29:00,648 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-30 19:29:36,532 - INFO - 准备加载模型: F:\原F盘\桌面\LocalAI\models\MaziyarPanahi_Qwen3-0.6B-GGUF\Qwen3-0.6B.Q2_K.gguf (大小: 0.32 GB)
+2025-06-30 19:29:36,538 - ERROR - 加载模型失败: 
+2025-06-30 19:29:36,538 - ERROR - 详细错误信息: Traceback (most recent call last):
+  File "F:\原F盘\桌面\LocalAI\app.py", line 164, in load_model
+    self.current_model = Llama(
+  File "C:\Users\mumam\AppData\Local\Programs\Python\Python310\lib\site-packages\llama_cpp\llama.py", line 365, in __init__
+    assert self.model is not None
+AssertionError
+
+2025-06-30 19:39:36,452 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-30 19:39:36,479 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-06-30 19:39:36,522 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-30 19:39:54,355 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-06-30 19:43:37,361 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-30 19:43:37,399 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-06-30 19:43:37,495 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-30 19:43:49,730 - INFO - 准备加载模型: F:\原F盘\桌面\LocalAI\models\MaziyarPanahi_Qwen3-0.6B-GGUF\Qwen3-0.6B.Q2_K.gguf (大小: 0.32 GB)
+2025-06-30 19:43:50,201 - INFO - 模型加载成功: F:\原F盘\桌面\LocalAI\models\MaziyarPanahi_Qwen3-0.6B-GGUF\Qwen3-0.6B.Q2_K.gguf
+2025-06-30 19:44:54,315 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-30 19:44:54,336 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-06-30 19:44:54,449 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-30 19:45:22,172 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-30 19:45:22,230 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-30 19:45:22,248 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-06-30 19:45:40,200 - INFO - 准备加载模型: F:\原F盘\桌面\LocalAI\models\MaziyarPanahi_Qwen3-0.6B-GGUF\Qwen3-0.6B.Q2_K.gguf (大小: 0.32 GB)
+2025-06-30 19:45:40,585 - INFO - 模型加载成功: F:\原F盘\桌面\LocalAI\models\MaziyarPanahi_Qwen3-0.6B-GGUF\Qwen3-0.6B.Q2_K.gguf
+2025-06-30 19:47:50,900 - INFO - 准备加载模型: F:\原F盘\桌面\LocalAI\models\MaziyarPanahi_Phi-4-mini-instruct-GGUF\Phi-4-mini-instruct.Q2_K.gguf (大小: 1.57 GB)
+2025-06-30 19:47:51,635 - INFO - 模型加载成功: F:\原F盘\桌面\LocalAI\models\MaziyarPanahi_Phi-4-mini-instruct-GGUF\Phi-4-mini-instruct.Q2_K.gguf
+2025-06-30 19:51:52,409 - INFO - 准备加载模型: F:\原F盘\桌面\LocalAI\models\MaziyarPanahi_Qwen2.5-7B-Instruct-GGUF\Qwen2.5-7B-Instruct.IQ1_M.gguf (大小: 1.90 GB)
+2025-06-30 19:51:53,129 - INFO - 模型加载成功: F:\原F盘\桌面\LocalAI\models\MaziyarPanahi_Qwen2.5-7B-Instruct-GGUF\Qwen2.5-7B-Instruct.IQ1_M.gguf
+2025-06-30 19:56:13,663 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-30 19:56:13,754 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-30 19:56:13,778 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-06-30 19:56:22,712 - INFO - 准备加载模型: F:\原F盘\桌面\LocalAI\models\MaziyarPanahi_Phi-4-mini-instruct-GGUF\Phi-4-mini-instruct.Q2_K.gguf (大小: 1.57 GB)
+2025-06-30 19:56:23,348 - INFO - 模型加载成功: F:\原F盘\桌面\LocalAI\models\MaziyarPanahi_Phi-4-mini-instruct-GGUF\Phi-4-mini-instruct.Q2_K.gguf
+2025-06-30 19:57:41,813 - INFO - 准备加载模型: F:\原F盘\桌面\LocalAI\models\MaziyarPanahi_Qwen3-0.6B-GGUF\Qwen3-0.6B.Q2_K.gguf (大小: 0.32 GB)
+2025-06-30 19:57:42,464 - INFO - 模型加载成功: F:\原F盘\桌面\LocalAI\models\MaziyarPanahi_Qwen3-0.6B-GGUF\Qwen3-0.6B.Q2_K.gguf
+2025-06-30 19:59:53,777 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-30 19:59:53,817 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-06-30 19:59:54,089 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-30 20:00:06,317 - INFO - 准备加载模型: f:\原F盘\桌面\LocalAI\models\MaziyarPanahi_Phi-3.5-mini-instruct-GGUF\Phi-3.5-mini-instruct.IQ1_M.gguf (大小: 0.85 GB)
+2025-06-30 20:00:06,598 - INFO - 模型加载成功: f:\原F盘\桌面\LocalAI\models\MaziyarPanahi_Phi-3.5-mini-instruct-GGUF\Phi-3.5-mini-instruct.IQ1_M.gguf
+2025-06-30 20:02:26,506 - INFO - 准备加载模型: F:\原F盘\桌面\LocalAI\models\MaziyarPanahi_Qwen2-7B-Instruct-GGUF\Qwen2-7B-Instruct.IQ1_M.gguf (大小: 1.90 GB)
+2025-06-30 20:02:27,189 - INFO - 模型加载成功: F:\原F盘\桌面\LocalAI\models\MaziyarPanahi_Qwen2-7B-Instruct-GGUF\Qwen2-7B-Instruct.IQ1_M.gguf
